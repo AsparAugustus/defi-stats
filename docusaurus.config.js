@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Zyanation', // Usually your GitHub org/user name.
-  projectName: 'defi-stats', // Usually your repo name.
+  projectName: 'dydx-stats-app', // Usually your repo name.
 
   presets: [
     [
